@@ -1,0 +1,12 @@
+{
+  "text": "We live in this whole, in the countryside.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "We live in this whole, in the countryside."
+    }
+  ],
+  "model": "base.en",
+  "duration": 4.7
+}

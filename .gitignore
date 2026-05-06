@@ -1,0 +1,10 @@
+node_modules/
+.env
+**/blobs/
+*.bin
+backend/models/models--Systran--faster-whisper-small.en/
+whisper_env/
+venv/
+.venv/
+__pycache__/
+*.pyc

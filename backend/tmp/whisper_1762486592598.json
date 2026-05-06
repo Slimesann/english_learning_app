@@ -1,0 +1,12 @@
+{
+  "text": "There are five people in my family, my father, mother, brother, sister, and me.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "There are five people in my family, my father, mother, brother, sister, and me."
+    }
+  ],
+  "model": "base.en",
+  "duration": 8.3
+}

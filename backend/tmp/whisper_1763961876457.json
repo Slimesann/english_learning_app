@@ -1,0 +1,232 @@
+{
+  "text": "English Singsing Webber Cloudy Cloudy It's Cloudy Cold Cold It's Cold Foggy Foggy It's Foggy Hot Hot It's Hot Raining Raining It's raining It's snowing It's snowing Storming It's storming Sunny It's Sunny Windy Windy It's Windy How's the weather? It's Cloudy It's cold It's foggy It's hot It's raining It's snowing It's stormy It's Sunny It's Windy Windy Cloudy Cold Foggy Hot It's raining It's stormy Sunny Windy",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "English Singsing"
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "Webber"
+    },
+    {
+      "start": 10.0,
+      "end": 17.0,
+      "text": "Cloudy"
+    },
+    {
+      "start": 17.0,
+      "end": 20.0,
+      "text": "Cloudy"
+    },
+    {
+      "start": 20.0,
+      "end": 27.0,
+      "text": "It's Cloudy"
+    },
+    {
+      "start": 27.0,
+      "end": 30.0,
+      "text": "Cold"
+    },
+    {
+      "start": 30.0,
+      "end": 33.0,
+      "text": "Cold"
+    },
+    {
+      "start": 33.0,
+      "end": 37.0,
+      "text": "It's Cold"
+    },
+    {
+      "start": 37.0,
+      "end": 42.0,
+      "text": "Foggy"
+    },
+    {
+      "start": 42.0,
+      "end": 47.0,
+      "text": "Foggy"
+    },
+    {
+      "start": 47.0,
+      "end": 54.0,
+      "text": "It's Foggy"
+    },
+    {
+      "start": 54.0,
+      "end": 57.0,
+      "text": "Hot"
+    },
+    {
+      "start": 57.0,
+      "end": 60.0,
+      "text": "Hot"
+    },
+    {
+      "start": 60.0,
+      "end": 65.0,
+      "text": "It's Hot"
+    },
+    {
+      "start": 65.0,
+      "end": 69.0,
+      "text": "Raining"
+    },
+    {
+      "start": 69.0,
+      "end": 73.0,
+      "text": "Raining"
+    },
+    {
+      "start": 73.0,
+      "end": 78.0,
+      "text": "It's raining"
+    },
+    {
+      "start": 78.0,
+      "end": 83.0,
+      "text": "It's snowing"
+    },
+    {
+      "start": 83.0,
+      "end": 88.0,
+      "text": "It's snowing"
+    },
+    {
+      "start": 88.0,
+      "end": 93.0,
+      "text": "Storming"
+    },
+    {
+      "start": 93.0,
+      "end": 98.0,
+      "text": "It's storming"
+    },
+    {
+      "start": 98.0,
+      "end": 105.0,
+      "text": "Sunny"
+    },
+    {
+      "start": 106.0,
+      "end": 111.0,
+      "text": "It's Sunny"
+    },
+    {
+      "start": 111.0,
+      "end": 116.0,
+      "text": "Windy"
+    },
+    {
+      "start": 116.0,
+      "end": 119.0,
+      "text": "Windy"
+    },
+    {
+      "start": 119.0,
+      "end": 124.0,
+      "text": "It's Windy"
+    },
+    {
+      "start": 124.0,
+      "end": 129.0,
+      "text": "How's the weather?"
+    },
+    {
+      "start": 129.0,
+      "end": 134.0,
+      "text": "It's Cloudy"
+    },
+    {
+      "start": 135.0,
+      "end": 144.0,
+      "text": "It's cold"
+    },
+    {
+      "start": 144.0,
+      "end": 151.0,
+      "text": "It's foggy"
+    },
+    {
+      "start": 151.0,
+      "end": 157.0,
+      "text": "It's hot"
+    },
+    {
+      "start": 157.0,
+      "end": 163.0,
+      "text": "It's raining"
+    },
+    {
+      "start": 164.0,
+      "end": 170.0,
+      "text": "It's snowing"
+    },
+    {
+      "start": 170.0,
+      "end": 177.0,
+      "text": "It's stormy"
+    },
+    {
+      "start": 177.0,
+      "end": 182.0,
+      "text": "It's Sunny"
+    },
+    {
+      "start": 182.0,
+      "end": 189.0,
+      "text": "It's Windy"
+    },
+    {
+      "start": 190.0,
+      "end": 195.0,
+      "text": "Windy"
+    },
+    {
+      "start": 195.0,
+      "end": 199.0,
+      "text": "Cloudy"
+    },
+    {
+      "start": 199.0,
+      "end": 203.0,
+      "text": "Cold"
+    },
+    {
+      "start": 203.0,
+      "end": 208.0,
+      "text": "Foggy"
+    },
+    {
+      "start": 208.0,
+      "end": 211.0,
+      "text": "Hot"
+    },
+    {
+      "start": 211.0,
+      "end": 216.0,
+      "text": "It's raining"
+    },
+    {
+      "start": 216.0,
+      "end": 221.0,
+      "text": "It's stormy"
+    },
+    {
+      "start": 221.0,
+      "end": 226.0,
+      "text": "Sunny"
+    },
+    {
+      "start": 226.0,
+      "end": 231.0,
+      "text": "Windy"
+    }
+  ],
+  "model": "base.en",
+  "duration": 231.9
+}

@@ -1,0 +1,89 @@
+[
+    {
+        "title": "English A1 - Starter",
+        "level": "easy",
+        "description": "Basic English for absolute beginners. Learn greetings, numbers, and simple sentences.",
+        "lessons": [
+        { "title": "Lesson 1: Greetings", "content": "Learn how to say hello and goodbye.", "skills": ["speaking", "listening"], "order": 1,
+            "exercises": [ { "type": "listening", "question": "Which is a greeting?", "options": ["Hello", "Goodbye", "Thanks"], "answer": "Hello" } ] },
+        { "title": "Lesson 2: Numbers", "content": "Learn numbers 1–20.", "skills": ["reading", "speaking"], "order": 2,
+            "exercises": [ { "type": "reading", "question": "What is number 5?", "options": ["Three", "Five", "Seven"], "answer": "Five" } ] },
+        { "title": "Lesson 3: Family", "content": "Learn family vocabulary.", "skills": ["reading"], "order": 3 },
+        { "title": "Lesson 4: Daily Objects", "content": "Learn names of objects around you.", "skills": ["reading", "writing"], "order": 4 },
+        { "title": "Lesson 5: Colors", "content": "Learn basic colors.", "skills": ["speaking"], "order": 5 },
+        { "title": "Lesson 6: Simple Sentences", "content": "Form simple sentences with 'to be'.", "skills": ["writing"], "order": 6 },
+        { "title": "Lesson 7: Food", "content": "Learn food vocabulary.", "skills": ["listening"], "order": 7 },
+        { "title": "Lesson 8: Directions", "content": "Learn left, right, straight.", "skills": ["speaking"], "order": 8 },
+        { "title": "Lesson 9: Days of the Week", "content": "Learn names of days.", "skills": ["reading"], "order": 9 },
+        { "title": "Lesson 10: Mini Test A1", "content": "Review lessons 1–9.", "skills": ["reading","writing","speaking","listening"], "order": 10, "isTest": true, "testType": "mini", "passScore": 60 }
+        ]
+    },
+    {
+        "title": "English A2 - Elementary",
+        "level": "easy",
+        "description": "Elementary English with simple conversations and daily expressions.",
+        "lessons": [
+        { "title": "Lesson 1: Introductions", "content": "Learn to introduce yourself.", "skills": ["speaking"], "order": 1 },
+        { "title": "Lesson 2: Hobbies", "content": "Talk about hobbies.", "skills": ["writing"], "order": 2 },
+        { "title": "Lesson 3: Weather", "content": "Describe the weather.", "skills": ["listening"], "order": 3 },
+        { "title": "Lesson 4: Time", "content": "Tell the time.", "skills": ["speaking"], "order": 4 },
+        { "title": "Lesson 5: Daily Routines", "content": "Talk about your day.", "skills": ["reading"], "order": 5 },
+        { "title": "Lesson 6: Shopping", "content": "Useful phrases for shopping.", "skills": ["speaking"], "order": 6 },
+        { "title": "Lesson 7: Travel", "content": "Basic travel English.", "skills": ["reading"], "order": 7 },
+        { "title": "Lesson 8: Health", "content": "Talk about health problems.", "skills": ["speaking"], "order": 8 },
+        { "title": "Lesson 9: Friends", "content": "Describe your friends.", "skills": ["writing"], "order": 9 },
+        { "title": "Lesson 10: Mini Test A2", "content": "Review lessons 1–9.", "skills": ["reading","writing","speaking","listening"], "order": 10, "isTest": true, "testType": "mini", "passScore": 60 }
+        ]
+    },
+    {
+        "title": "English A2+ - Pre-Intermediate",
+        "level": "medium",
+        "description": "Expand vocabulary and grammar. Build confidence in conversations.",
+        "lessons": [
+        { "title": "Lesson 1: Jobs", "content": "Learn vocabulary for jobs.", "skills": ["reading"], "order": 1 },
+        { "title": "Lesson 2: Travel Experiences", "content": "Talk about past trips.", "skills": ["speaking"], "order": 2 },
+        { "title": "Lesson 3: Food and Drink", "content": "Ordering in restaurants.", "skills": ["speaking"], "order": 3 },
+        { "title": "Lesson 4: Technology", "content": "Talk about devices.", "skills": ["writing"], "order": 4 },
+        { "title": "Lesson 5: Past Tense", "content": "Use past simple tense.", "skills": ["writing"], "order": 5 },
+        { "title": "Lesson 6: Transport", "content": "Vocabulary about transport.", "skills": ["reading"], "order": 6 },
+        { "title": "Lesson 7: Future Plans", "content": "Talk about future intentions.", "skills": ["speaking"], "order": 7 },
+        { "title": "Lesson 8: Movies", "content": "Discuss favorite films.", "skills": ["speaking"], "order": 8 },
+        { "title": "Lesson 9: Home and Furniture", "content": "Describe your home.", "skills": ["reading"], "order": 9 },
+        { "title": "Lesson 10: Mini Test A2+", "content": "Review lessons 1–9.", "skills": ["reading","writing","speaking","listening"], "order": 10, "isTest": true, "testType": "mini", "passScore": 65 }
+        ]
+    },
+    {
+        "title": "English B1 - Intermediate",
+        "level": "medium",
+        "description": "Intermediate English to understand main points of clear standard input.",
+        "lessons": [
+        { "title": "Lesson 1: Work Life", "content": "Talk about your work.", "skills": ["speaking"], "order": 1 },
+        { "title": "Lesson 2: Environment", "content": "Discuss environmental issues.", "skills": ["reading"], "order": 2 },
+        { "title": "Lesson 3: Social Media", "content": "Talk about online habits.", "skills": ["writing"], "order": 3 },
+        { "title": "Lesson 4: Sports", "content": "Discuss sports you like.", "skills": ["speaking"], "order": 4 },
+        { "title": "Lesson 5: Grammar – Present Perfect", "content": "Learn how to use present perfect.", "skills": ["writing"], "order": 5 },
+        { "title": "Lesson 6: Celebrations", "content": "Talk about festivals.", "skills": ["reading"], "order": 6 },
+        { "title": "Lesson 7: Opinions", "content": "Express your opinions.", "skills": ["speaking"], "order": 7 },
+        { "title": "Lesson 8: Education", "content": "Discuss school subjects.", "skills": ["reading"], "order": 8 },
+        { "title": "Lesson 9: News and Media", "content": "Talk about recent news.", "skills": ["writing"], "order": 9 },
+        { "title": "Lesson 10: Mini Test B1", "content": "Review lessons 1–9.", "skills": ["reading","writing","speaking","listening"], "order": 10, "isTest": true, "testType": "mini", "passScore": 70 }
+        ]
+    },
+    {
+        "title": "English B1+ - Upper Intermediate",
+        "level": "hard",
+        "description": "Develop strong skills for work, travel, and study. Prepare for exams.",
+        "lessons": [
+        { "title": "Lesson 1: Global Issues", "content": "Discuss global challenges.", "skills": ["reading"], "order": 1 },
+        { "title": "Lesson 2: Technology and Future", "content": "Talk about future tech.", "skills": ["speaking"], "order": 2 },
+        { "title": "Lesson 3: Art and Culture", "content": "Describe art and cultural events.", "skills": ["writing"], "order": 3 },
+        { "title": "Lesson 4: Health and Lifestyle", "content": "Discuss lifestyle choices.", "skills": ["speaking"], "order": 4 },
+        { "title": "Lesson 5: Grammar – Conditionals", "content": "Learn first and second conditional.", "skills": ["writing"], "order": 5 },
+        { "title": "Lesson 6: Work Presentations", "content": "Practice presentation language.", "skills": ["speaking"], "order": 6 },
+        { "title": "Lesson 7: Travel Abroad", "content": "Talk about traveling internationally.", "skills": ["speaking"], "order": 7 },
+        { "title": "Lesson 8: Literature", "content": "Discuss famous books.", "skills": ["reading"], "order": 8 },
+        { "title": "Lesson 9: Problem Solving", "content": "Practice problem solving language.", "skills": ["writing"], "order": 9 },
+        { "title": "Lesson 10: Final Test B1+", "content": "Comprehensive test of all skills.", "skills": ["reading","writing","speaking","listening"], "order": 10, "isTest": true, "testType": "final", "passScore": 75 }
+        ]
+    }
+]

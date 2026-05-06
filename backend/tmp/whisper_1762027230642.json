@@ -1,0 +1,142 @@
+{
+  "text": "How many people are there in your family? There are five people in my family, my father, mother, brother, sister, and me. Does your family live in a house or an apartment? We live in a house in the countryside. What does your father do? My father is a doctor. He works at the local hospital. How old is your mother? She is forty years old, one year younger than my father. Do you have any siblings? What's his or her name? Yes, I do. I have one elder brother, David, and one younger sister, Mary. Are you the oldest among your brothers and sisters? No, I'm not. I'm the second child in my family. What is your mother, father-like? My father likes playing football and my mother likes cooking. Do your parents let you stay out late? Of course not. They always ask me to get home before 10 p.m. each night. Do you stay with your parents? Right now? No, but I used to. Does your family usually have dinner together? Yes, we do. My mom always prepares delicious meals for us.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 15.0,
+      "text": "How many people are there in your family?"
+    },
+    {
+      "start": 15.0,
+      "end": 22.9,
+      "text": "There are five people in my family, my father, mother, brother, sister, and me."
+    },
+    {
+      "start": 22.9,
+      "end": 26.3,
+      "text": "Does your family live in a house or an apartment?"
+    },
+    {
+      "start": 26.3,
+      "end": 29.6,
+      "text": "We live in a house in the countryside."
+    },
+    {
+      "start": 29.6,
+      "end": 32.0,
+      "text": "What does your father do?"
+    },
+    {
+      "start": 32.0,
+      "end": 33.9,
+      "text": "My father is a doctor."
+    },
+    {
+      "start": 33.9,
+      "end": 36.6,
+      "text": "He works at the local hospital."
+    },
+    {
+      "start": 36.6,
+      "end": 38.6,
+      "text": "How old is your mother?"
+    },
+    {
+      "start": 38.6,
+      "end": 43.0,
+      "text": "She is forty years old, one year younger than my father."
+    },
+    {
+      "start": 43.0,
+      "end": 45.0,
+      "text": "Do you have any siblings?"
+    },
+    {
+      "start": 45.0,
+      "end": 46.9,
+      "text": "What's his or her name?"
+    },
+    {
+      "start": 46.9,
+      "end": 48.6,
+      "text": "Yes, I do."
+    },
+    {
+      "start": 48.6,
+      "end": 54.2,
+      "text": "I have one elder brother, David, and one younger sister, Mary."
+    },
+    {
+      "start": 54.2,
+      "end": 56.8,
+      "text": "Are you the oldest among your brothers and sisters?"
+    },
+    {
+      "start": 56.8,
+      "end": 58.4,
+      "text": "No, I'm not."
+    },
+    {
+      "start": 58.4,
+      "end": 61.1,
+      "text": "I'm the second child in my family."
+    },
+    {
+      "start": 61.1,
+      "end": 63.5,
+      "text": "What is your mother, father-like?"
+    },
+    {
+      "start": 63.5,
+      "end": 67.6,
+      "text": "My father likes playing football and my mother likes cooking."
+    },
+    {
+      "start": 67.6,
+      "end": 70.3,
+      "text": "Do your parents let you stay out late?"
+    },
+    {
+      "start": 70.3,
+      "end": 71.5,
+      "text": "Of course not."
+    },
+    {
+      "start": 71.5,
+      "end": 75.0,
+      "text": "They always ask me to get home before 10 p.m. each night."
+    },
+    {
+      "start": 75.0,
+      "end": 77.0,
+      "text": "Do you stay with your parents?"
+    },
+    {
+      "start": 77.0,
+      "end": 78.0,
+      "text": "Right now?"
+    },
+    {
+      "start": 78.0,
+      "end": 80.6,
+      "text": "No, but I used to."
+    },
+    {
+      "start": 80.6,
+      "end": 83.2,
+      "text": "Does your family usually have dinner together?"
+    },
+    {
+      "start": 83.2,
+      "end": 85.2,
+      "text": "Yes, we do."
+    },
+    {
+      "start": 85.2,
+      "end": 87.7,
+      "text": "My mom always prepares delicious meals for us."
+    }
+  ],
+  "model": "base.en",
+  "duration": 0.0
+}

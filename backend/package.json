@@ -1,0 +1,41 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "English Learning App - Speaking Practice with AI",
+  "main": "index.js",
+  "type": "module",
+  "proxy": "http://localhost:5000",
+  "scripts": {
+    "dev": "nodemon --delay 10 index.js",
+    "setup": "node setup-and-run.js",
+    "start": "node index.js",
+    "install-all": "npm install && npm run setup"
+  },
+  "dependencies": {
+    "@google-cloud/speech": "^7.2.1",
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.13.1",
+    "bcryptjs": "^3.0.2",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "form-data": "^4.0.4",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb-connection-string-url": "^3.0.2",
+    "mongoose": "^8.18.1",
+    "multer": "^2.0.2",
+    "node-fetch": "^3.3.2",
+    "nodemailer": "^7.0.6",
+    "openai": "^6.7.0",
+    "xlsx": "^0.18.5",
+    "youtube-transcript": "^1.2.1",
+    "ytdl-core": "^4.11.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "ISC"
+}

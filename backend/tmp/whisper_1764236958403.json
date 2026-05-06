@@ -1,0 +1,12 @@
+{
+  "text": "And next, same, same.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "And next, same, same."
+    }
+  ],
+  "model": "base.en",
+  "duration": 3.5
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Do you have any live in a house or an apartment?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Do you have any live in a house or an apartment?"
+    }
+  ],
+  "model": "base.en",
+  "duration": 7.9
+}

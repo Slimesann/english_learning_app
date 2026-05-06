@@ -1,0 +1,127 @@
+{
+  "text": "I will kill you to eat a dory myself. Sorry, eat a dory. Don't make me expect it. Satoru Gojo has been sealed. Gate closed. I have to fight otherwise I'll just be a murderer. Let's kick it up and not eat the dory! This will be the last time you and I will ever curse each other! Eat a dory. You take it from here. It's starting once again. The world of Heya. The Golden Age of Jiu Jitsu. Because of me a lot of people are dead now! Please. I need your power. One of Gojo's students wouldn't go down easily. I can't stay with the others anymore. You can't give up. It was 12 years ago when all the distortion started. Did you think you could go after my little brother and then leave this place alive? Let's go, Riva. Well, alright then. I guess I'd better not die. You",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "I will kill you to eat a dory myself."
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "Sorry, eat a dory."
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "Don't make me expect it."
+    },
+    {
+      "start": 13.0,
+      "end": 16.0,
+      "text": "Satoru Gojo has been sealed."
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "Gate closed."
+    },
+    {
+      "start": 18.0,
+      "end": 24.0,
+      "text": "I have to fight otherwise I'll just be a murderer."
+    },
+    {
+      "start": 25.0,
+      "end": 28.0,
+      "text": "Let's kick it up and not eat the dory!"
+    },
+    {
+      "start": 28.0,
+      "end": 33.0,
+      "text": "This will be the last time you and I will ever curse each other!"
+    },
+    {
+      "start": 33.0,
+      "end": 34.0,
+      "text": "Eat a dory."
+    },
+    {
+      "start": 34.0,
+      "end": 36.0,
+      "text": "You take it from here."
+    },
+    {
+      "start": 36.0,
+      "end": 38.0,
+      "text": "It's starting once again."
+    },
+    {
+      "start": 38.0,
+      "end": 40.0,
+      "text": "The world of Heya."
+    },
+    {
+      "start": 40.0,
+      "end": 43.0,
+      "text": "The Golden Age of Jiu Jitsu."
+    },
+    {
+      "start": 47.0,
+      "end": 49.0,
+      "text": "Because of me a lot of people are dead now!"
+    },
+    {
+      "start": 49.0,
+      "end": 50.0,
+      "text": "Please."
+    },
+    {
+      "start": 50.0,
+      "end": 52.0,
+      "text": "I need your power."
+    },
+    {
+      "start": 53.0,
+      "end": 57.0,
+      "text": "One of Gojo's students wouldn't go down easily."
+    },
+    {
+      "start": 57.0,
+      "end": 60.0,
+      "text": "I can't stay with the others anymore."
+    },
+    {
+      "start": 60.0,
+      "end": 62.0,
+      "text": "You can't give up."
+    },
+    {
+      "start": 62.0,
+      "end": 65.0,
+      "text": "It was 12 years ago when all the distortion started."
+    },
+    {
+      "start": 65.0,
+      "end": 70.0,
+      "text": "Did you think you could go after my little brother and then leave this place alive?"
+    },
+    {
+      "start": 70.0,
+      "end": 72.0,
+      "text": "Let's go, Riva."
+    },
+    {
+      "start": 75.0,
+      "end": 79.0,
+      "text": "Well, alright then. I guess I'd better not die."
+    },
+    {
+      "start": 82.0,
+      "end": 85.0,
+      "text": "You"
+    }
+  ],
+  "model": "base.en",
+  "duration": 85.1
+}

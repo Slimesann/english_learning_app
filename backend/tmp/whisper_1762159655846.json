@@ -1,0 +1,12 @@
+{
+  "text": "How many people are there enjoying a family?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "How many people are there enjoying a family?"
+    }
+  ],
+  "model": "base.en",
+  "duration": 4.6
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Do your family live in an house or apartment.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Do your family live in an house or apartment."
+    }
+  ],
+  "model": "base.en",
+  "duration": 7.0
+}

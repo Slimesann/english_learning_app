@@ -1,0 +1,77 @@
+{
+  "text": "So, what's new, Mark? How is your new job going? To be honest, I can't complain. I really love the company that I am working for. My co-workers are all really friendly and helpful. They really help me feel welcome. It's a really energetic and fun atmosphere. My boss is hilarious and he's really flexible. Really? How so? He allows me to come in when I want and make my own hours. I can also leave early if I start early. There is no real dress code either. I can wear jeans and a t-shirt if I want. I can even wear shorts in the summer. Wow. It sounds really cool. I can't stand wearing a suit every day. Which do you prefer? Working late or finishing early? I prefer finishing early. I really enjoy the morning. I love getting up early and going for a run. There's nothing like watching the sunrise while drinking my morning coffee. Really? I am opposite. I love sleeping in. I am most alert in the evenings. I'm a real night owl. Well, you know what they say. The early bird catches the worm. You know, you could be right. Maybe I will try to go to bed a little earlier tonight.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 17.8,
+      "text": "So, what's new, Mark? How is your new job going?"
+    },
+    {
+      "start": 17.8,
+      "end": 26.2,
+      "text": "To be honest, I can't complain. I really love the company that I am working for."
+    },
+    {
+      "start": 26.2,
+      "end": 34.2,
+      "text": "My co-workers are all really friendly and helpful. They really help me feel welcome."
+    },
+    {
+      "start": 34.2,
+      "end": 44.0,
+      "text": "It's a really energetic and fun atmosphere. My boss is hilarious and he's really flexible."
+    },
+    {
+      "start": 44.0,
+      "end": 47.8,
+      "text": "Really? How so?"
+    },
+    {
+      "start": 47.8,
+      "end": 55.9,
+      "text": "He allows me to come in when I want and make my own hours. I can also leave early if I"
+    },
+    {
+      "start": 55.9,
+      "end": 63.9,
+      "text": "start early. There is no real dress code either. I can wear jeans and a t-shirt if I want."
+    },
+    {
+      "start": 63.9,
+      "end": 75.0,
+      "text": "I can even wear shorts in the summer. Wow. It sounds really cool. I can't stand wearing a suit"
+    },
+    {
+      "start": 75.0,
+      "end": 84.4,
+      "text": "every day. Which do you prefer? Working late or finishing early? I prefer finishing early. I"
+    },
+    {
+      "start": 84.8,
+      "end": 92.8,
+      "text": "really enjoy the morning. I love getting up early and going for a run. There's nothing like"
+    },
+    {
+      "start": 92.8,
+      "end": 103.2,
+      "text": "watching the sunrise while drinking my morning coffee. Really? I am opposite. I love sleeping in."
+    },
+    {
+      "start": 104.2,
+      "end": 109.6,
+      "text": "I am most alert in the evenings. I'm a real night owl."
+    },
+    {
+      "start": 114.1,
+      "end": 121.6,
+      "text": "Well, you know what they say. The early bird catches the worm. You know, you could be right."
+    },
+    {
+      "start": 122.8,
+      "end": 126.8,
+      "text": "Maybe I will try to go to bed a little earlier tonight."
+    }
+  ],
+  "model": "base.en",
+  "duration": 133.3
+}

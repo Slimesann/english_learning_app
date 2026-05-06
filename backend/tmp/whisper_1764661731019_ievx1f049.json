@@ -1,0 +1,12 @@
+{
+  "text": "How many people are there in Russia they live in?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "How many people are there in Russia they live in?"
+    }
+  ],
+  "model": "base.en",
+  "duration": 3.8
+}

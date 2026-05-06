@@ -1,0 +1,12 @@
+{
+  "text": "How many people are there in Joel's family?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "How many people are there in Joel's family?"
+    }
+  ],
+  "model": "base.en",
+  "duration": 4.4
+}

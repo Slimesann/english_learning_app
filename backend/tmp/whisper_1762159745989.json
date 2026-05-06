@@ -1,0 +1,12 @@
+{
+  "text": "How many people are their job family?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "How many people are their job family?"
+    }
+  ],
+  "model": "base.en",
+  "duration": 6.0
+}
